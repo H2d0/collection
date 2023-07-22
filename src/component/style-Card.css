@@ -1,0 +1,22 @@
+.card-Box {
+    max-height: 100%;
+    margin: auto;
+    margin-top: 20px;
+}
+.card-Box img{
+    height: 200px;
+    width: 200px;
+    margin: auto;
+    margin-top: 20px;
+}
+.card-body h5{
+    color: black;
+    font-size: 17px;
+    font-weight: bold;
+}
+.card-body p{
+    color: #0000009e;
+    line-height: 1.6;
+    font-size: 14px;
+}
+

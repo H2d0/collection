@@ -1,0 +1,55 @@
+.box{
+    display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-top: 60px;
+}
+.box .imga{
+    height: 200px;
+        width: 50%;
+        margin: auto;
+        margin-top: 20px;
+}
+.box .card-body{
+        width: 50%;
+    margin-top: auto;
+}
+.box .imga img{
+    height: 260px;
+        width: 222px;
+        margin: auto;
+        margin-top: 20%;
+}
+@media (max-width:767px) {
+.box .imga img {
+            height: 220px;
+                width: 125px;
+                margin: auto;
+                margin-top: 50%;
+    }
+}
+.box h4{
+    text-align: start;
+    margin: 15px 0;
+    font-size: 14px;
+    color: #00000099;
+}
+.box h5{
+    margin: 20px 0;
+    text-align: start;
+    font-size: 25px;
+}
+.box h6{
+    text-align: start;
+    font-size: 25px;
+    margin: 10px 0;
+}
+.box p{
+        font-size: 14px;
+            line-height: 1.4;
+            margin: 20px 0;
+}
+.box a{
+text-align: center;
+    margin: 10px 5px;
+}
